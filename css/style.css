@@ -401,6 +401,7 @@ h1 {
 	right: -166px;
 	top: -25px;
 	margin-bottom: 85px;
+	margin-right: 0px;
 }
 .portfolioImages {
 	background-color: #ffffff;
@@ -508,7 +509,7 @@ h2 {
 	right: 0px;
 	top: 0px;
 	position: relative;
-	margin: 90px 10px;
+	margin: 90px 0px;
 	padding: 0 10px 10px;
 	margin-top: 90px;
 }
